@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+
+    <!-- Light Mode Colors -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_light">#212121</color> <!-- Text for light mode -->
+
+    <!-- Dark Mode Colors -->
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="text_dark">#E0E0E0</color> <!-- Text for dark mode -->
+
+    <!-- Accent Colors -->
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_red">#D32F2F</color>
+    <color name="accent_blue">#2196F3</color> <!-- Additional accent color -->
+</resources>
